@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <p>
+        <strong>bold</strong>
+    </p>
+    <p>
+        <em>italic</em>
+    </p>
+    <p>
+        <span style="text-decoration: underline;">underline ∑</span>
+    </p>
+    <p style="text-align: left;">text with formating to left</p>
+    <p style="text-align: right;">text wityh formating to right</p>
+    <p style="text-align: center;">text with formating to center</p>
+    <p style="text-align: justify;">text with formating fit to page</p>
+    <p>text paragraph</p>
+
+    <p>text format</p>
+    <address>text address</address>
+    <pre>text preformatted<br/></pre>
+    <h1>text heading 1</h1>
+    <h2>text heading 2<br/></h2>
+    <h3>text heading 3</h3>
+    <h4>text heading 4</h4>
+    <h5>text heading 5</h5>
+    <h6>text heading 6</h6>
+
+    <p>
+        <span style="font-size: xx-small;">font size 1 8pt</span>
+    </p>
+    <p>
+        <span style="font-size: x-small;">font size 1 10pt</span>
+    </p>
+    <p>
+        <span style="font-size: small;">font size 1 12pt</span>
+    </p>
+    <p>
+        <span style="font-size: medium;">font size 1 14pt</span>
+    </p>
+    <p>
+        <span style="font-size: large;">font size 1 18pt</span>
+    </p>
+    <p>
+        <span style="font-size: x-large;">font size 1 24pt</span>
+    </p>
+    <p>
+        <span style="font-size: xx-large;">font size 1 36pt</span>
+    </p>
+    <!--<p>&nbsp;</p>-->
+    <p>
+        <span style="font-size: x-small;">list not number</span>
+    </p>
+
+    <ul>
+        <li>
+            <span style="font-size: x-small;">item 01</span>
+        </li>
+        <li>
+            <span style="font-size: x-small;">item 02</span>
+        </li>
+        <li>
+            <span style="font-size: x-small;">item 03</span>
+        </li>
+    </ul>
+    <p>list with number ©</p>
+    <ol>
+        <li>item 01</li>
+        <li>item 02</li>
+    </ol>
+    <p>
+        <span style="color: rgb(51, 102, 255);">
+            <span style="background-color: rgb(255, 255, 255);">color text</span>
+        </span>
+    </p>
+
+    <p>
+        <span style="background-color: rgb(0, 255, 0);">collor background</span>
+    </p>
+
+</root>
+
